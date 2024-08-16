@@ -1,2 +1,2 @@
 # AI-ML-Projects
-My advanced Data Science projects
+My AI/ML projects
